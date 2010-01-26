@@ -19,6 +19,12 @@ Usage
       })
     end
 
+Dependencies
+============
+
+* ImageMagick 6.5.6-1+ (possibly earlier versions, I believe 6.2+ actually...)
+* Milton ([http://github.com/citrusbyte/milton](http://github.com/citrusbyte/milton))
+
 License
 =======
 
